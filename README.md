@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 
 ![pyo8470's GitHub stats](https://github-readme-stats.vercel.app/api?username=pyo8470&show_icons=true&theme=radical)
 ---
+python
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pyo8470)](https://solved.ac/pyo8470
 )
+c++
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cgantro)](https://solved.ac/cgantro
 )
