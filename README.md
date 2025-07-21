@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 ---
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pyo8470)](https://solved.ac/pyo8470
 )
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pyo8470)](https://solved.ac/cgantro
+)
