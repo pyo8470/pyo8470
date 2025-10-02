@@ -11,8 +11,8 @@
 ## 🚀 About Me
 - 🔭 Currently working on: Embedded Systems & Backend Projects
 - 🌱 Learning: C, C++, Python, Spring Boot
-- 🎯 Goal: Building smart hardware (IoT, drone, music tech)
-- 📫 How to reach me: **pyo8470@gmail.com**
+- 🎯 Goal: Building smart hardware (IoT, music tech)
+- 📫 How to reach me: **cgantro@gmail.com**
 - 😄 Fun Fact: I love bass guitar 🎸 and tech that grooves
 - 📘 Education/Program: **SSAFY 14th (삼성 청년 SW 아카데미)**
 
